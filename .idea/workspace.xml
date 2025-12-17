@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d457432a-c532-4d82-a6ee-cea505b98e08" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/pandas_ankit_bansal/pandas_revision.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d457432a-c532-4d82-a6ee-cea505b98e08" name="Changes" comment="new_netflix project for dashboards (matplotlib) in end_to end projects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -191,7 +188,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765182429411</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new_netflix project for dashboards (matplotlib) in end_to end projects">
+      <option name="closed" value="true" />
+      <created>1765960336849</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765960336849</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new_netflix project for dashboards (matplotlib) in end_to end projects">
+      <option name="closed" value="true" />
+      <created>1765960505665</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765960505665</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +222,7 @@
     <MESSAGE value="first commit--" />
     <MESSAGE value="first commit" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="new_netflix project for dashboards (matplotlib) in end_to end projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="new_netflix project for dashboards (matplotlib) in end_to end projects" />
   </component>
 </project>
